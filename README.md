@@ -1,2 +1,2 @@
 # crunchyposts
-Wordpress theme of website crunchyposts.com
+Wordpress theme for website crunchyposts.com
